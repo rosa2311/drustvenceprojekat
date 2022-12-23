@@ -1,0 +1,18 @@
+@media only screen and (device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) {
+}
+
+.card {
+  margin-bottom: 5%;
+}
+body {
+  max-width: 480px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  background-color: whitesmoke;
+  font-family: "Roboto", sans-serif;
+}
+html {
+  display: table;
+  margin: auto;
+}
